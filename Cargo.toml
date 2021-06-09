@@ -1,0 +1,10 @@
+[package]
+name = "cli-timer"
+version = "0.1.0"
+authors = ["Morgan Van Amerongen <vanamerongen.morgan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termion = "1.5.6"
+inputbot = "0.5.0"
+pausable_clock = "0.3.2"
